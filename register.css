@@ -1,0 +1,102 @@
+	body {
+		color: #fff;
+		background: #19aa8d;
+		font-family: 'Roboto', sans-serif;
+	}
+	.form-control, .form-control:focus, .input-group-addon {
+		border-color: #e1e1e1;
+	}
+    .form-control, .btn {        
+        border-radius: 2px;
+    }
+	.signup-form {
+		width: 340px;
+		margin: 0 auto;
+		padding: 28px 0;
+	}
+    .signup-form form {
+		color: #999;
+		border-radius: 2px;
+    	margin-bottom: 15px;
+        background: #fff;
+        box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
+        padding: 26px;
+    }
+    .p {
+        text-align: center;
+        font-size: 10px;
+    }
+	.signup-form h2 {
+        color: #333;
+        text-align: center;
+		font-weight: bold;
+        margin-top: 0;
+    }
+    .signup-form hr {
+        margin: 0 -10px 10px;
+    }
+	.signup-form .form-group {
+		margin-bottom: 20px;
+	}
+	.signup-form label {
+		font-weight: normal;
+		font-size: 12px;
+	}
+	.signup-form .form-control {
+		min-height: 38px;
+		box-shadow: none !important;
+	}	
+	.signup-form .input-group-addon {
+		max-width: 42px;
+		text-align: center;
+	}
+	.signup-form input[type="checkbox"] {
+		margin-top: 2px;
+	}   
+    .signup-form .btn{  
+        display: inline-block;      
+        font-size: 16px;
+        font-weight: bold;
+		background: #19aa8d;
+		border: none;
+		min-width: 140px;
+		position: relative;
+        top: 10%;
+		bottom:0 ;
+		right: 0;
+		left:20% ;
+    }
+	.signup-form .btn:hover, .signup-form .btn:focus {
+		background: #179b81;
+        outline: none;
+	}
+	.signup-form a {
+		color: #fff;	
+		text-decoration: underline;
+	}
+	.signup-form a:hover {
+		text-decoration: none;
+	}
+	.signup-form form a {
+		color: #19aa8d;
+		text-decoration: none;
+	}	
+	.signup-form form a:hover {
+		text-decoration: underline;
+	}
+	.signup-form .fa {
+		font-size: 21px;
+	}
+	.signup-form .fa-paper-plane {
+		font-size: 18px;
+	}
+	.signup-form .fa-check {
+		color: #fff;
+		left: 17px;
+		top: 18px;
+		font-size: 7px;
+		position: absolute;
+	}
+.form-inline my-2 my-lg-0{
+	padding: 
+}
